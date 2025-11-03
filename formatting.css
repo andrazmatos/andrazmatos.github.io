@@ -8,6 +8,11 @@ p {
          border-style: solid;
          border-color: red;
       }
+
+    body {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
       h1 {
          /* color: #cc0000; */
          margin-bottom: 5%;
@@ -37,7 +42,8 @@ p {
       #predmetnik {
         text-align: center;
         color: #cc0000ca;
-        font-size: 1.5em;
+        font-size: 2em;
+        font-style:normal;
       }
       
     blockquote {
