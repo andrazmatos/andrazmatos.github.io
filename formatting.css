@@ -1,0 +1,64 @@
+p {
+         font-family: 'Times New Roman', Times, serif, Arial, sans-serif;
+         color: #000000;
+         text-align: center;
+         border-width: 2px;
+         margin-left: 10%;
+         margin-right: 10%;
+         border-style: solid;
+         border-color: red;
+      }
+      h1 {
+         /* color: #cc0000; */
+         margin-bottom: 5%;
+         text-align: center;
+         font-size: 3em;
+         font-family: Aptos, Arial, Helvetica;
+        
+      }
+      h1:hover {
+        color: purple;
+      }
+      p {
+         font-size: 1.2em;
+         margin-bottom: 10px;
+      }
+
+      a {
+        color: #cc0000;
+        text-decoration: none;
+      }
+
+      a:hover {
+        color:#cc0000ca;
+        text-decoration: wavy;
+      }
+
+      #predmetnik {
+        text-align: center;
+        color: #cc0000ca;
+        font-size: 1.5em;
+      }
+      
+    blockquote {
+        font-size: 1em;
+    width: 30%;
+    /* float: auto; */
+    border-width: 1px;
+    text-align: left;
+    border-color: rgb(155, 185, 7);
+    border-style: solid;
+    margin-right: 2em;
+    padding: 1em;
+    background-color: yellow;
+    }
+
+    .predmetnik{
+        justify-content: space-between;
+        align-items: center;
+        display: flex;
+    }
+
+    ul {
+        list-style-type: none;
+    }
